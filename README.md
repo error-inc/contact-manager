@@ -1,4 +1,4 @@
-# **Contact Manager V0.0**
+# **Contact Manager V0.1**
 
 ### This is a simple *Command Line Based* **Contact Manager** based in **C**.
 
@@ -19,9 +19,18 @@ Contact Manager
 ---------------
 1.Add Contact  
 2.View Contacts  
-3.Exit  
+3.Search Contact  
+4.Delete Contact  
+5.Exit  
 Enter choice:  
 '
+
+##### You can  
+    - add contact  
+    - view all contacts  
+    - search a contact by name  
+    - delete a contact  
+
 
 ### Precompiled Linux EFL Binary:
 '
